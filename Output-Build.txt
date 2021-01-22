@@ -1,0 +1,19 @@
+﻿1>------ Build started: Project: Sudoku, Configuration: Release x64 ------
+1>Source.cpp
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(119,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(183,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(456,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(771,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(1158,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(1197,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(2100,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(3027,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\Sudoku\Source.cpp(5635,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Generating code
+1>1 of 105 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+1>  0 functions were new in current compilation
+1>  1 functions had inline decision re-evaluated but remain unchanged
+1>Finished generating code
+1>Sudoku.vcxproj -> A:\Step İT\Ev tapşırıqları\Proqramlaşdırma\C və C++\Hazırlanan ev tapşırığı\C++ Ev tapşırığı\Sudoku\Sudoku\x64\Release\Sudoku.exe
+1>Done building project "Sudoku.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
